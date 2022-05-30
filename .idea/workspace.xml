@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="">
+    <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="Configurando SpringBoot">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -47,7 +47,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653922320287</updated>
     </task>
+    <task id="LOCAL-00001" summary="Configurando SpringBoot">
+      <created>1653924160090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653924160090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configurando SpringBoot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando SpringBoot" />
   </component>
 </project>
