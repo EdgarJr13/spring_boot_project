@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="Configurando SpringBoot">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/MinhaConfiguration.java" afterDir="false" />
+    <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="Ajustando rotas utilizando o Bean">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/repository/ClientesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/service/ClientesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653924286162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajustando rotas utilizando o Bean">
+      <created>1654111258616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654111258616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configurando SpringBoot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurando SpringBoot" />
+    <MESSAGE value="Ajustando rotas utilizando o Bean" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustando rotas utilizando o Bean" />
   </component>
 </project>
