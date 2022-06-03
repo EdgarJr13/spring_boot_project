@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="gerando annotations personalizados.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/AnimalConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/Development.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-production.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654115441612</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gerando annotations personalizados.">
+      <created>1654145740328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654145740328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

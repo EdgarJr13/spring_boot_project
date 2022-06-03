@@ -1,7 +1,5 @@
 package io.github.edgarjr13;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -24,7 +22,6 @@ public class VendasApplication {
     @Value("${application.name}")
     private String applicationName;
 
-    @Cachorro
     private Animal animal;
 
     @Bean(name = "executarAnimal")
