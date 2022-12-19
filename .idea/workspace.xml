@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd4ec90-3c72-4340-aa12-9e1a794d2f9a" name="Changes" comment="criando modelos do schema;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/repository/Clientes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/VendasApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/edgarjr13/domain/entity/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +104,7 @@
       <workItem from="1670853073900" duration="3233000" />
       <workItem from="1670868546913" duration="3411000" />
       <workItem from="1671027218564" duration="6349000" />
-      <workItem from="1671458770404" duration="1828000" />
+      <workItem from="1671458770404" duration="3174000" />
     </task>
     <task id="LOCAL-00001" summary="Configurando SpringBoot">
       <created>1653924160090</created>
@@ -153,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654145740328</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="criando modelos do schema;">
+      <created>1671461894127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671461894127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
